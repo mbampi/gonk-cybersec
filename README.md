@@ -6,3 +6,6 @@ This project is part of the Cybersecurity course at the University of São Paulo
 
 It is based on the cronk-template project.
 Original project: https://github.com/lucasb/cronk-template
+
+![Gopher Hacker Gonk](./img/gopher-hacker-gonk.jpg)
+AI-generated image using Gemini 2.0 Flash.
