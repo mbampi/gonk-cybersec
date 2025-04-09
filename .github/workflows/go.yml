@@ -22,7 +22,7 @@ jobs:
     - name: Set up Go
       uses: actions/setup-go@0aaccfd150d50ccaeb58ebd88d36e91967a5f35b # v5.4.0
       with:
-        go-version: '1.20'
+        go-version: '1.23'
 
     - name: Build
       working-directory: ./src
@@ -41,7 +41,7 @@ jobs:
     - name: Set up Go
       uses: actions/setup-go@0aaccfd150d50ccaeb58ebd88d36e91967a5f35b # v5.4.0
       with:
-        go-version: '1.20'
+        go-version: '1.23'
 
     - name: Fuzz
       working-directory: ./src
